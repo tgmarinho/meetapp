@@ -111,6 +111,7 @@ or
 Thiago Marinho
 * [tgmarinho@gmail.com](mailto:tgmarinho@gmail.com)
 * [tgmarinho.com](http://tgmarinho.com)
+* [twitter/tgmarinho](http://twitter.com/tgmarinho)
 * [github.com/tgmarinho](http://github.com/tgmarinho)
 * [linkedin.com/in/tgmarinho](http://linkedin.com/in/tgmarinho)
 
