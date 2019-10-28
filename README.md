@@ -2,14 +2,16 @@
 
 # MeetApp
 
-> Meetapp (an acronym for Meetup + App): App for organizing, viewing and subscribing meetups for developer.
+> Meetapp (an acronym for Meetup + App): App for organizing, viewing and subscribing meetups for developers.
 
-Link to projects are below:
+Link to each projects are below:
 
 * Backend API NodeJS: [https://github.com/tgmarinho/meetapp-api](https://github.com/tgmarinho/meetapp-api)
 * Frontend React (CRA): [https://github.com/tgmarinho/meetapp-react](https://github.com/tgmarinho/meetapp-react)
 * Mobile (React Native): [https://github.com/tgmarinho/meetappRN](https://github.com/tgmarinho/meetappRN)
 
+
+![Details web](screenshots/details-web.png)
 
 
 ## Getting Started
@@ -57,6 +59,7 @@ or
 
 Rename the file `.env.exame` to `.env` and create yours environment variables and replace them. It's is very important for running the server.
 
+Also, I'm sending the Insomnia file for call the API, download it [here](https://github.com/tgmarinho/meetapp/blob/master/Insomnia_2019-10-27.json).
 
 ### Frontend (React)
 
@@ -96,6 +99,7 @@ or
 3. react-native run-ios
 ```
 
+
 ## Keep in Touch
 
 Thiago Marinho
@@ -104,6 +108,62 @@ Thiago Marinho
 * [github.com/tgmarinho](http://github.com/tgmarinho)
 * [linkedin.com/in/tgmarinho](http://linkedin.com/in/tgmarinho)
 
- ## License
+
+## Screen Shots
+
+
+* Editing Meetup
+
+![Editing Web](screenshots/edit-web.png)
+
+* Listing Meetups
+
+![Insomnia](screenshots/listMeetup-werb.png)
+
+* Profile Frontend
+
+![Insomnia](screenshots/profile-web.png)
+
+* SignIn Web
+
+![Insomnia](screenshots/sign-web.png)
+
+* SignUp Web
+
+![Insomnia](screenshots/signup-web.png)
+
+* Inscrições Mobile
+
+![Insomnia](screenshots/inscricoes-mobile.png)
+
+* Meetups Mobile
+
+![Insomnia](screenshots/meetups-mobile.png)
+
+* SignIn Mobile
+
+![Insomnia](screenshots/sign-mobile.png)
+
+* SignUp Mobile
+
+![Insomnia](screenshots/signup-mobile.png)
+
+* Infinite Scroll Mobile
+
+![Insomnia](screenshots/sroll-mobile.png)
+
+
+* Insomnia API
+
+![Insomnia](screenshots/insomnia-api.png)
+
+
+That's it! =)
+
+## Thank you
+
+Thanks [Rocketseat](https://rocketseat.com.br/ I really liked the bootcamp!
+
+## License
 
 This project could be used for anyone! MIT License
