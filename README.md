@@ -168,7 +168,7 @@ That's it! =)
 
 ## Thank you
 
-Thanks [Rocketseat](https://rocketseat.com.br/ I really liked the bootcamp!
+Thanks [Rocketseat](https://rocketseat.com.br/) I really liked the bootcamp!
 
 ## License
 
