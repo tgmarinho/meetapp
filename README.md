@@ -57,7 +57,7 @@ or
 4. npm dev
 ```
 
-Rename the file `.env.exame` to `.env` and create yours environment variables and replace them. It's is very important for running the server.
+Rename the file `.env.example` to `.env` and create yours environment variables and replace them. It's is very important for running the server.
 
 Also, I'm sending the Insomnia file for call the API, download it [here](https://github.com/tgmarinho/meetapp/blob/master/Insomnia_2019-10-27.json).
 
