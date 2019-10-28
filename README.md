@@ -89,8 +89,14 @@ or
 * To download the project follow the instructions bellow:
 
 ```
-1. git clone https://github.com/tgmarinho/meetapp-mobile.git
-2. cd meetapp-mobile
+1. git clone https://github.com/tgmarinho/meetappRN.git
+2. cd meetappRN
+```
+
+* Install dependencies
+
+```
+1. yarn install
 ```
 
 * Start the application:
