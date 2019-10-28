@@ -166,4 +166,4 @@ Thanks [Rocketseat](https://rocketseat.com.br/ I really liked the bootcamp!
 
 ## License
 
-This project could be used for anyone! MIT License
+This project could be used by anyone! MIT License
