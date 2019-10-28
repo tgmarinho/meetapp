@@ -99,7 +99,7 @@ or
 ## Keep in Touch
 
 Thiago Marinho
-* [tgmairnho@gmail.com](mailto:tgmarinho@gmail.com)
+* [tgmarinho@gmail.com](mailto:tgmarinho@gmail.com)
 * [tgmarinho.com](http://tgmarinho.com)
 * [github.com/tgmarinho](http://github.com/tgmarinho)
 * [linkedin.com/in/tgmarinho](http://linkedin.com/in/tgmarinho)
